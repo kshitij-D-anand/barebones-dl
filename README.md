@@ -3,7 +3,7 @@
 A zero-dependency deep learning engine built in pure NumPy.
 
 A hands-on implementation of neural network fundamentals (inspired by 'neural network from scratch').
-It implements core deep learning building blocks—from scratch matrix multiplications and automatic gradient backpropagation to custom optimizers and regularizers.
+It implements core deep learning building blocks, from scratch matrix multiplications and automatic gradient backpropagation to custom optimizers and regularizers.
 
 ## 🛠️ Features
 
